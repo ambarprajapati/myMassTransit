@@ -16,7 +16,7 @@ namespace MassTransit.Tests
     using NUnit.Framework;
     using Util;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class Advanced_Uri_Specs
     {
         Uri _baseUri;

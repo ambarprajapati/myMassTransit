@@ -18,7 +18,7 @@ namespace MassTransit.EntityFrameworkIntegration
     using System.Data.Entity.Infrastructure;
     using MassTransit.Saga;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class SagaDbContext<TSaga, TSagaClassMapping> :
         DbContext
         where TSaga : class, ISaga

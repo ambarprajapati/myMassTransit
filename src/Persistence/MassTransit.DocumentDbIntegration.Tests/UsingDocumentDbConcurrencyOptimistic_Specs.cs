@@ -24,7 +24,7 @@ namespace MassTransit.DocumentDbIntegration.Tests
     using Newtonsoft.Json;
     using NUnit.Framework;
     using TestFramework;
-
+    //AMBAR Git TEST 10/30/2019
 
     // Both of these tests will pass in Debug, because the TestTimeout is 50 minutes, which is enough time for all concurrency to settle. Marked as explicit so they don't run on Appveyor
     [TestFixture]

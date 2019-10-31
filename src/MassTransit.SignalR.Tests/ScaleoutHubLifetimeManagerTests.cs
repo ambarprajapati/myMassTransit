@@ -7,7 +7,7 @@
     using NUnit.Framework;
     using System.Linq;
     using System.Threading.Tasks;
-
+    //AMBAR Git TEST 10/30/2019
     public class ScaleoutHubLifetimeManagerTests : DoubleScaleoutBackplaneTestFixture<MyHub>
     {
         private async Task AssertMessageAsync(TestClient client)

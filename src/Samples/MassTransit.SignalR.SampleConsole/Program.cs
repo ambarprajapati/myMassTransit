@@ -8,7 +8,7 @@ using MassTransit.SignalR.Utils;
 using Microsoft.AspNetCore.SignalR;
 
 namespace MassTransit.SignalR.SampleConsole
-{
+{    //AMBAR Git TEST 10/30/2019
     static class Program
     {
         internal static async Task Main(string[] args)

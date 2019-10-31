@@ -16,7 +16,7 @@ namespace MassTransit.Reactive
     using System.Reactive;
     using GreenPipes;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class ObserverConnection<T> :
         IDisposable
         where T : class

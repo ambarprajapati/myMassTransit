@@ -16,7 +16,7 @@ namespace MassTransit.ActiveMqTransport.Tests
     using System.Diagnostics;
     using System.Threading.Tasks;
     using NUnit.Framework;
-
+    //AMBAR Git TEST 10/30/2019
 
     public class ScheduleMessage_Specs :
         ActiveMqTestFixture

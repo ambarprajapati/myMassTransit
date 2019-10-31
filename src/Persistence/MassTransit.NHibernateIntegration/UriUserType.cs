@@ -6,7 +6,7 @@ namespace MassTransit.NHibernateIntegration
     using NHibernate.Engine;
     using NHibernate.SqlTypes;
     using NHibernate.UserTypes;
-
+    //AMBAR Git TEST 10/30/2019
 
     /// <summary>
     /// An NHibernate user type for storing a Uri

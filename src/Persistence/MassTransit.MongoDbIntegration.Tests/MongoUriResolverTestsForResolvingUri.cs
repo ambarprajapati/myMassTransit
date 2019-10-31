@@ -17,7 +17,7 @@ namespace MassTransit.MongoDbIntegration.Tests
     using MongoDB.Bson;
     using NUnit.Framework;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     public class MongoUriResolverTestsForResolvingUri
     {

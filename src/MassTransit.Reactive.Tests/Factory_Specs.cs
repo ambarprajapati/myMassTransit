@@ -22,7 +22,7 @@ namespace MassTransit.Reactive.Tests
     using Testing.Observers;
     using Util;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     public class Subscribing_from_the_service_bus_factory :
         InMemoryTestFixture

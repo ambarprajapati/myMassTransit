@@ -18,7 +18,7 @@ namespace MassTransit.WebJobs.EventHubsIntegration
     using Pipeline;
     using Transports;
 
-
+    //AMBAR Git TEST 10/30/2019
     public interface IEventDataReceiver :
         IMessageReceiver,
         IConsumeMessageObserverConnector,

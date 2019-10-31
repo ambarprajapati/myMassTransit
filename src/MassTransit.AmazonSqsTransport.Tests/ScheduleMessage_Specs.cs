@@ -18,7 +18,7 @@ namespace MassTransit.AmazonSqsTransport.Tests
     using Configuration;
     using NUnit.Framework;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class ScheduleMessage_Specs :
         AmazonSqsTestFixture
     {

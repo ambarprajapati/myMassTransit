@@ -3,6 +3,7 @@ namespace MassTransit.AutofacIntegration
     /// <summary>
     /// Uses a string-based header to identify the lifetime scope
     /// </summary>
+    ///     //AMBAR Git TEST 10/30/2019
     public class StringHeaderLifetimeScopeIdProvider :
         ILifetimeScopeIdProvider<string>
     {

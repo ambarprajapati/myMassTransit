@@ -16,7 +16,7 @@ namespace MassTransit.RabbitMqTransport.Tests
     using NUnit.Framework;
     using Shouldly;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     public class When_a_message_is_published :
         RabbitMqTestFixture

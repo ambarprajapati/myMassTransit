@@ -25,7 +25,7 @@ namespace MassTransit.SignalR.Sample
     using Newtonsoft.Json;
     using Newtonsoft.Json.Linq;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class Startup
     {
         // This method gets called by the runtime. Use this method to add services to the container.

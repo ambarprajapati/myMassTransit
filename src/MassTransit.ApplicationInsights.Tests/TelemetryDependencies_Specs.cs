@@ -22,8 +22,8 @@ namespace MassTransit.ApplicationInsights.Tests
 	using Microsoft.ApplicationInsights.Extensibility;
 	using Microsoft.ApplicationInsights.Extensibility.Implementation;
 	using NUnit.Framework;
-
-	[TestFixture]
+    //AMBAR Git TEST 10/30/2019
+    [TestFixture]
 	public class TelemetryDependencies_Specs
        : InMemoryTestFixture
 	{

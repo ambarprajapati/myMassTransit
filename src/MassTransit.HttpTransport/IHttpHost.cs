@@ -15,7 +15,7 @@ namespace MassTransit.HttpTransport
     using Hosting;
     using Transport;
 
-
+    //AMBAR Git TEST 10/30/2019
     public interface IHttpHost : 
         IHost
     {

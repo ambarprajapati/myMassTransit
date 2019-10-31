@@ -17,7 +17,7 @@ namespace MassTransit.RedisIntegration
     using StackExchange.Redis;
     using static DatabaseExtensions;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class TypedDatabase<T> :
         ITypedDatabase<T>
         where T : class

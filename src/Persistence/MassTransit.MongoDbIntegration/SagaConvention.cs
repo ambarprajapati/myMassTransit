@@ -17,7 +17,7 @@ namespace MassTransit.MongoDbIntegration
     using MongoDB.Bson.Serialization;
     using MongoDB.Bson.Serialization.Conventions;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class SagaConvention :
         ConventionBase,
         IClassMapConvention

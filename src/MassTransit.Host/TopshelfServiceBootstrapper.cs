@@ -19,7 +19,7 @@ namespace MassTransit.Host
     using Topshelf.Logging;
     using Topshelf.Runtime;
 
-
+    //AMBAR Git TEST 10/30/2019
     public abstract class TopshelfServiceBootstrapper<T> :
         IDisposable
         where T : TopshelfServiceBootstrapper<T>

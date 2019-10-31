@@ -21,7 +21,7 @@ namespace MassTransit.QuartzService
     using Scheduling;
     using Topshelf;
     using Util;
-
+    //AMBAR Git TEST 10/30/2019
 
     public class ScheduleMessageService :
         ServiceControl

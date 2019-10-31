@@ -12,7 +12,7 @@ namespace MassTransit.WebJobs.Tests
     using TestFramework;
     using TestFramework.Messages;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     public class Creating_a_brokered_message_receiver
     {

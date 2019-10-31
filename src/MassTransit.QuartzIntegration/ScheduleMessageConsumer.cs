@@ -27,7 +27,7 @@ namespace MassTransit.QuartzIntegration
     using Scheduling;
     using Serialization;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class ScheduleMessageConsumer :
         IConsumer<ScheduleMessage>,
         IConsumer<ScheduleRecurringMessage>

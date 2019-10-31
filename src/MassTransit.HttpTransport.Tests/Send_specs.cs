@@ -16,7 +16,7 @@ namespace MassTransit.HttpTransport.Tests
     using NUnit.Framework;
     using TestFramework.Messages;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     public class Sending_a_message_to_an_endpoint :
         HttpTestFixture

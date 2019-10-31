@@ -16,7 +16,7 @@ namespace MassTransit.ActiveMqTransport
     using Apache.NMS;
     using GreenPipes;
 
-
+    //AMBAR Git TEST 10/30/2019
     public interface SessionContext :
         PipeContext
     {

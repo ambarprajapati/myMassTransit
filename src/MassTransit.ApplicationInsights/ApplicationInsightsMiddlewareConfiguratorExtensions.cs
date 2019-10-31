@@ -17,7 +17,7 @@ namespace MassTransit
     using Microsoft.ApplicationInsights;
     using Microsoft.ApplicationInsights.DataContracts;
     using Microsoft.ApplicationInsights.Extensibility;
-
+    //AMBAR Git TEST 10/30/2019
 
     public static class ApplicationInsightsMiddlewareConfiguratorExtensions
     {

@@ -24,7 +24,7 @@ namespace MassTransit.EntityFrameworkCoreIntegration.Tests
     using TestFramework;
     using Testing;
 
-
+    //AMBAR Git TEST 10/30/2019
     [TestFixture]
     [Category("Integration")]
     public class Using_ef_connection_resiliency :

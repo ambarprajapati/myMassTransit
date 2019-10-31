@@ -17,7 +17,7 @@ namespace MassTransit.DapperIntegration.Tests
     using NUnit.Framework;
     using Sql;
 
-
+    //AMBAR Git TEST 10/30/2019
     public class WhereStatementHelperTests
     {
         [Test]
